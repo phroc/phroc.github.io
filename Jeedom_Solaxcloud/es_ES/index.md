@@ -16,7 +16,7 @@ La ventaja del plugin Plugin Solax Cloud es que permite obtener datos de inverso
 
 Una vez que haya instalado el plugin desde el market Jeedom, sólo tiene que activarlo. **El plugin no tiene dependencias ni tampoco demonio**. Por consiguiente, no tiene que hacer nada más.
 
-Después, debe crear un equipo nuevo. Para ello, vaya a Plugins / Monitoring / Solax Cloud.
+Después, debe crear un equipo nuevo. Para ello, vaya a Plugins / Monitoreo / Solax Cloud.
 
 Haga clic en "+" (Añadir).
 
