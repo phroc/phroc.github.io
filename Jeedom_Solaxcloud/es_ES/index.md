@@ -52,3 +52,11 @@ Puede personalizarlo como más le guste.
 **El refresco de los datos se hace cada minuto**.
 
 Si tiene más de un inversor Solax, puede crear un equipo para cada inversor. En ese caso, tendrá un widget por inversor.
+<br>
+<br> 
+
+
+<span style="color: #67A4F2">Autres informations</span>
+===
+
+Documentation en français disponible [ici](https://phroc.github.io/Jeedom_Solaxcloud/fr_FR/)
