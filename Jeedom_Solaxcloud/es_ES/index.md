@@ -56,7 +56,7 @@ Si tiene más de un inversor Solax, puede crear un equipo para cada inversor. En
 <br> 
 
 
-<span style="color: #67A4F2">Autres informations</span>
+<span style="color: #67A4F2">Información complementaria</span>
 ===
 
 Documentation en français disponible [ici](https://phroc.github.io/Jeedom_Solaxcloud/fr_FR/)
