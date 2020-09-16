@@ -59,5 +59,4 @@ Si vous avez plusieurs onduleurs Solax, vous pouvez créér un équipement pour 
 <span style="color: #67A4F2">Autres informations</span>
 ===
 
-* changelog disponible [ici](https://github.com/phroc/jeedom_plugins_docs/blob/master/Solaxcloud/fr_FR/changelog.md)
-* Documentación en español disponible [aquí](https://github.com/phroc/jeedom_plugins_docs/blob/master/Solaxcloud/es_ES/index.md)
+Documentación en español disponible [aquí](https://phroc.github.io/Jeedom_Solaxcloud/es_ES/)
