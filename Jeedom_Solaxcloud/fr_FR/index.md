@@ -96,6 +96,7 @@ Correspondance des valeurs remontées par la commmande "Inverter Type":
 * 13 = J1-ESS
 <br>
 <br>
+
 Correspondance des valeurs remontées par la commmande "Inverter Status":
 
 * 100 = Wait Mode
