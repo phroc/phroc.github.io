@@ -56,7 +56,7 @@ Vous obtenez **13 commandes de type "info"** que vous pouvez afficher et/ou hist
 <span style="color: #67A4F2">Widget</span>
 ===
 
-Widget en forme de jauges, à l'état brut. Utiliser le mode édition sur le dashboard (crayon situé en haut à droite de l'écran) pour dimensionner le wigdet comme vous l'entendez.
+Widget en forme de jauges, à l'état brut. Utilisez le mode édition sur le dashboard (crayon situé en haut à droite de l'écran) pour dimensionner le wigdet comme vous l'entendez.
 
 ![Solaxcloud](https://phroc.github.io/Jeedom_Solaxcloud/fr_FR/pics/Solax_fra_7.png)
 
