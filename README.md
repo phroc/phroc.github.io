@@ -1,2 +1,3 @@
-* FRA: Documentations plugins Jeedom
-* ESP: Documentaciones plugins Jeedom
+* FRA: Documentations de plugins
+* ESP: Documentaciones de plugins
+* ENG: Plugins documentations
