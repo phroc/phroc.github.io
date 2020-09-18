@@ -1,1 +1,4 @@
-* 15/09/2020:	Premi�re version du plugin
+* 15/09/2020:	Première version du plugin
+
+
+changelog en español [aquí](https://phroc.github.io/Jeedom_Solaxcloud/es_ES/changelog)
