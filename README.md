@@ -1,5 +1,6 @@
 ![pr-domotica](https://github.com/phroc/phroc.github.io/blob/master/pr-domotica.png)
-[website](https://pr-domotica.es/)
+<br>
+[pr-domotica.es](https://pr-domotica.es/)
 
 
 * FRA: Ce dépôt contient les documentations de divers plugins
