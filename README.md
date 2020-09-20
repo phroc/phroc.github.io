@@ -5,4 +5,4 @@
 
 * FRA: Ce dépôt contient les documentations de divers plugins pour Jeedom et eedomus
 * ESP: Este repositorio contiene las documentaciones de diversos plugins para Jeedom y eedomus
-* ENG: This repository contains diferent plugins documentations for Jeedom and eedomus
+* ENG: This repository contains different plugins documentations for Jeedom and eedomus
