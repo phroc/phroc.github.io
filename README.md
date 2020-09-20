@@ -1,4 +1,3 @@
-![Solaxcloud](https://phroc.github.io/Jeedom_Solaxcloud/fr_FR/pics/Solax_fra_1.png)
 ![pr-domotica](https://phroc.github.io/pr-domotica.png)
 <br>
 [pr-domotica.es](https://pr-domotica.es/)
