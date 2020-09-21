@@ -56,7 +56,7 @@ Vous obtenez **13 commandes de type "info"** que vous pouvez afficher et/ou hist
 <span style="color: #67A4F2">Widget</span>
 ===
 
-Widget en forme de jauges, à l'état brut. Utilisez le mode édition sur le dashboard (crayon situé en haut à droite de l'écran) pour dimensionner le wigdet comme vous l'entendez.
+Widget en forme de jauges, à l'état brut.
 
 ![Solaxcloud](https://phroc.github.io/Jeedom_Solaxcloud/fr_FR/pics/Solax_fra_7.png)
 
@@ -67,68 +67,6 @@ Vous pouvez personnaliser ce widget à votre guise.
 Si vous avez plusieurs onduleurs Solax, vous pouvez créer un équipement pour chacun d'entre eux. Dans ce cas, vous aurez un widget par onduleur.
 <br>
 <br>
-Correspondance des valeurs remontées par la commmande "Inverter Type":
-
-* 1 =  X1-LX
-
-* 2 =  X-Hybrid
-
-* 3 =  X1-Hybiyd/Fit
-
-* 4 =  X1-Boost/Air/Mini
-
-* 5 =  X3-Hybiyd/Fit
-
-* 6 =  X3-20K/30K
-
-* 7 =  X3-MIC/PRO
-
-* 8 =  X1-Smart
-
-* 9 =  X1-AC
-
-* 10 = A1-Hybrid
-
-* 11 = A1-Fit
-
-* 12 = A1-Grid
-
-* 13 = J1-ESS
-<br>
-<br>
-
-Correspondance des valeurs remontées par la commmande "Inverter Status":
-
-* 100 = Wait Mode
-
-* 101 = Check Mode
-
-* 102 = Normal Mode
-
-* 103 = Fault Mode
-
-* 104 = Permanent Fault Mode
-
-* 105 = Update Mode
-
-* 106 = EPS Check Mode
-
-* 107 = EPS Mode
-
-* 108 = Self-Test Mode
-
-* 109 = Idle Mode
-
-* 110 = Standby Mode
-
-* 111 = Pv Wake Up Bat Mode
-
-* 112 = Gen Check Mode
-
-* 113 = Gen Run Mode
-<br>
-<br> 
-
 
 <span style="color: #67A4F2">Autres informations</span>
 ===
